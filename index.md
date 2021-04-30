@@ -13,7 +13,7 @@ Responsibilities:
 •	Devising Marketing Strategies through requirement gathering and determining the target audience for the product and lead generation.
 •	Maintaining customer relations to acquire long term partnerships with the company and encouraging customers to proactively use new product features.*
 
-## ```[Projects Undertaken:](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset)```
+## ```[Projects Undertaken:]```(https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset)
 
 ### Overview:
 

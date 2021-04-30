@@ -8,10 +8,10 @@ Duration: *15 Months*
 
 Responsibilities Undertaken:
 
-*- Administering the sales process of SAAS product including demonstration, pushing for trials, sales closure as well as monitoring and leading the overall process of post-sales implementation.
+- Administering the sales process of SAAS product including demonstration, pushing for trials, sales closure as well as monitoring and leading the overall process of post-sales implementation.
 - Handling a team of BD associates with the objective of getting more prospects for the platform on board.
 - Devising Marketing Strategies through requirement gathering and determining the target audience for the product and lead generation.
-- Maintaining customer relations to acquire long term partnerships with the company and encouraging customers to proactively use new product features.*
+- Maintaining customer relations to acquire long term partnerships with the company and encouraging customers to proactively use new product features.
 
 # [Projects Implemented:](https://github.com/Akshay-Avhad)
 

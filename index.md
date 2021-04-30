@@ -15,7 +15,9 @@ Responsibilities:
 
 ## [Projects Undertaken:](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset)
 
-### Overview:
+### [*Project 1: Public Expenditure on Education*](https://github.com/sneha1606/Public-Expenditure-on-Education)
+
+#### Overview:
 
 Method Focused on: _Exploratory Data Analysis_
 Tool Used: Python _(Jupyter Notebook)_

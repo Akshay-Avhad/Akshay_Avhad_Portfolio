@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Akshay Avhad Portfolio
 
-You can use the [editor on GitHub](https://github.com/Akshay-Avhad/Akshay_Avhad_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an enthusiastic engineer, aiming to build a career in data science. Currently I am associated with Great Lakes Chennai for a Post Graduation program in Deata Science Engineering
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## ```Work Experience:```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Role: *Business Development Executive - Kanuush Solutions Pvt. ltd.*
+Duration: *15 Months*
+Responsibilities: 
+*•	Administering the sales process of SAAS product including demonstration, pushing for trials, sales closure as well as monitoring and leading the overall process of post-sales implementation.
+•	Handling a team of BD associates with the objective of getting more prospects for the platform on board.
+•	Devising Marketing Strategies through requirement gathering and determining the target audience for the product and lead generation.
+•	Maintaining customer relations to acquire long term partnerships with the company and encouraging customers to proactively use new product features.*
 
-```markdown
-Syntax highlighted code block
+## ```[Projects Undertaken:](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset)```
 
-# Header 1
-## Header 2
-### Header 3
+### Overview:
 
-- Bulleted
-- List
+Method Focused on: _Exploratory Data Analysis_
+Tool Used: Python _(Jupyter Notebook)_
 
-1. Numbered
-2. List
+_The Haberman Dataset consists of the data recorded between the year 1958 to 1970 at the University of Chicago's Billing Hospital. The dataset indicates the survival of the patients after surgery who are detected with breast cancer.
+Some of the resultant visualisations are shown below:_
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akshay-Avhad/Akshay_Avhad_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset/blob/main/Visualisations/Haberman%20EDA%202.PNG)

@@ -1,7 +1,7 @@
 # Akshay_Avhad_Portfolio
 I am an enthusiastic engineer, who aims to pursue a career in data science. Currently I am associated with Great Lakes University for PG programs in Data Science Engineering
 
-# [Work Experience]: 
+# [Work Experience:]
 Profile: *Business Development Executive at Kanuush Soultions Pvt. Ltd.*
 Duration: *15 Months*
 Responsibilities Undertaken:
@@ -10,7 +10,7 @@ Responsibilities Undertaken:
 •	Devising Marketing Strategies through requirement gathering and determining the target audience for the product and lead generation.
 •	Maintaining customer relations to acquire long term partnerships with the company and encouraging customers to proactively use new product features.*
 
-# [Projects Implemented]:
+# [Projects Implemented:](https://github.com/Akshay-Avhad)
 
 [*Project 1: Exploratory Data Analysis on Haberman Dataset*](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset)
 

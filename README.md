@@ -6,7 +6,7 @@ Profile: *Business Development Executive at Kanuush Soultions Pvt. Ltd.*
 
 Duration: *15 Months*
 
-Responsibilities Undertaken:
+**Responsibilities Undertaken:**
 
 - Administering the sales process of SAAS product including demonstration, pushing for trials, sales closure as well as monitoring and leading the overall process of post-sales implementation.
 - Handling a team of BD associates with the objective of getting more prospects for the platform on board.

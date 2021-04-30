@@ -20,6 +20,7 @@ Responsibilities:
 #### Overview:
 
 Method Focused on: _Exploratory Data Analysis_
+
 Tool Used: Python _(Jupyter Notebook)_
 
 _The Haberman Dataset consists of the data recorded between the year 1958 to 1970 at the University of Chicago's Billing Hospital. The dataset indicates the survival of the patients after surgery who are detected with breast cancer.

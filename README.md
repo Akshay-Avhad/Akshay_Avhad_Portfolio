@@ -28,7 +28,7 @@ Tools Used: *Python (Jupyter Notebook)*
 ![Violin Plot of Status and Year:](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset/blob/main/Visualisations/Haberman%20EDA%201.PNG)
 ![Bivariate Plots:](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset/blob/main/Visualisations/Haberman%20EDA%202.PNG)
 
-[*Project 2: Heart Disease Prediction*](https://github.com/sneha1606/Heart-Disease/tree/master)
+[*Project 2: Heart Disease Prediction*](https://github.com/Akshay-Avhad/HeartDiseaseRisk)
 
 Overview:
 

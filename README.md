@@ -27,3 +27,12 @@ Tools Used: *Python (Jupyter Notebook)*
 
 ![Violin Plot of Status and Year:](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset/blob/main/Visualisations/Haberman%20EDA%201.PNG)
 ![Bivariate Plots:](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset/blob/main/Visualisations/Haberman%20EDA%202.PNG)
+
+[*Project 2: Heart Disease Prediction*](https://github.com/sneha1606/Heart-Disease/tree/master)
+
+Overview:
+
+Method Focused on: Linear Regression
+Tool Used: Python
+
+The goal is to predict the rate of heart disease (per 100,000 individuals) across the United States at the county-level from other socioeconomic indicators. The data is compiled from a wide range of sources . There are 33 variables in this dataset. Each row in the dataset represents a United States county, and the dataset we are working with covers two particular years, denoted a, and b We don't provide a unique identifier for an individual county, just a row_id for each row.
